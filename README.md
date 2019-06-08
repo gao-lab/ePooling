@@ -42,7 +42,7 @@ ePooling
 ```
 
 ### Demo
-We provide a [jupyter notebook](https://github.com/gao-lab/ePooling-dev/blob/master/demo/demo.ipynb) to help you use the new Global Expectation pooling layer to replace the Global Max pooling Layer.
+We provide a [jupyter notebook](https://github.com/gao-lab/ePooling/blob/master/demo/demo.ipynb) to help you use the new Global Expectation pooling layer to replace the Global Max pooling Layer.
 And you can also see the better performance of expectation pooling than max pooling and average pooling in the simulation data.
 ### Dependency
 
