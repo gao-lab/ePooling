@@ -26,6 +26,7 @@ ePooling
 │   │   │   plot_figure.py
 │   │   │   plot_history.py
 │   │   │   save_result_to_csv.py
+│   │   │   plot_simulation_motif_length.py
 │   │   
 │   └───train
 │       │   train_chip_data.py
@@ -37,8 +38,10 @@ ePooling
 └───Data
     │   data_process.py
     │   get_data.py
+    │   memefile2txt.py
+    │   data_generator.py
     │   readme.md
-  
+
 ```
 
 ### Demo
